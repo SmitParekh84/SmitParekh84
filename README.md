@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Blog App](https://nodejs-expressjs-ejs-blog-app.onrender.com/)<br><br>🌱 I’m currently learning **Node.js, Express.js, EJS, React,**<br><br>👨‍💻 All of my projects are available at [https://smitparekhportfolio.netlify.app/](https://smitparekhportfolio.netlify.app/)<br><br>💬 Ask me about **Html/css, Bootstrap, Js, Sql,**<br><br>📫 How to reach me **Smitparekh02@gmail.com**<br><br>📄 Know about my experiences [https://smitparekhportfolio.netlify.app/#about](https://smitparekhportfolio.netlify.app/#about)<br><br>⚡ Fun fact **I love creating engaging movie and series content for my followers on Instagram!**
+🔭 I’m currently working on E-commerce app<br><br>🌱 I’m currently learning **Node.js, Express.js, EJS, React,**<br><br>👨‍💻 All of my projects are available at [https://smitparekhportfolio.netlify.app/](https://smitparekhportfolio.netlify.app/)<br><br>💬 Ask me about **Html/css, Bootstrap, Js, Sql,**<br><br>📫 How to reach me **Smitparekh02@gmail.com**<br><br>📄 Know about my experiences [https://smitparekhportfolio.netlify.app/#about](https://smitparekhportfolio.netlify.app/#about)<br><br>⚡ Fun fact **I love creating engaging movie and series content for my followers on Instagram!**
 
 
 ## 🌐 Socials:
