@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaHeaven app<br><br>🌱 I’m currently learning **Node.js, Express.js, React, Next .js,**<br><br>👨‍💻 All of my projects are available at [www.smitparekh.studio](https://www.smitparekh.studio/)<br><br>💬 Ask me about **Html/css, Bootstrap, Js, Sql,**<br><br>📫 How to reach me **Smitparekh03@gmail.com**<br><br>📄 Know about my experiences [About](https://www.smitparekh.studio/about)<br><br>⚡ Fun fact **I love creating engaging movie and series content for my followers on Instagram!**
+🔭 I’m currently working on JavaHeaven app<br><br>🌱 I’m currently learning **Node.js, Express.js, React, Next .js,**<br><br>👨‍💻 All of my projects are available at [www.smitparekh.studio](https://www.smitparekh.studio/)<br><br>💬 Ask me about **Html/css, Node js, SEO, Digital Marketing, Sql,**<br><br>📫 How to reach me **Smitparekh03@gmail.com**<br><br>📄 Know about my experiences [About](https://www.smitparekh.studio/about)<br><br>⚡ Fun fact **I love creating engaging movie and series content for my followers on Instagram!**
 
 
 ## 🌐 Socials:
